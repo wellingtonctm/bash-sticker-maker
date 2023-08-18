@@ -1,0 +1,1 @@
+[2]+  Running                 ( ./main.sh -i "$file" -o "out/$(basename $file).webm" && echo "$file" ) &
