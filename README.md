@@ -143,4 +143,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to reach out with questions or suggestions. Happy coding! 🎉
+Feel free to reach out with questions or suggestions.
